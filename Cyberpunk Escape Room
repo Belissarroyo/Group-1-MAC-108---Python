@@ -1,0 +1,36 @@
+# Group-1-MAC-108---Python
+
+print("Welcome to Cyberpunk Escape..."
+print("You have infiltrated a highly secure, futuristic, corrupt corporate mainframe.\n Someone's onto you and has triggered the security alarm. \n Good luck getting passed all the security gates.")
+
+name = input("Enter your hacker alias: ")
+print("Welcome ", name, ", You're locked in a secure server room.")
+print("Alarms start in 60 seconds. Good luck escaping.")
+
+choice_1 = input("Do you (1) hack the terminal, (2) check the vent, or (3) inspect the door? ")
+
+choice_1 = 
+
+if choice_1 == "1":
+    print("")
+elif choice_1 == "2":
+    print("")
+elif choice_1 == "3":
+    print("")
+else:
+    print("Invalid choice, must pick 1, 2, or 3 to proceed.")
+
+
+
+choice_2 = 
+
+if choice_2 == "1":
+    print("")
+elif choice_2 == "2":
+    print("")
+elif choice_2 == "3":
+    print("")
+else:
+    print("Invalid choice, must pick 1, 2, or 3 to proceed.")
+
+    
